@@ -1,0 +1,57 @@
+# Get your API information from: https://my.telegram.org
+api_id = 197597
+api_hash = 227647fae1d2a3a1419bdd527337c87d
+
+# Use a proxy to connect to Telegram
+# Set Socks5 proxy like this:
+# 127.0.0.1:9050 
+# username:password@127.0.0.1:9050
+
+SOCKS5 PROXI   =
+
+# Use Prox to visit sites
+VISIT PROXI= NO
+
+# Set device model and android version: 
+PHONE MODEL    = iPhone 8 plus
+IOS VER    = 14
+
+# Set private group link to store your accounts:
+PRIVIT GROUP   = GROUP LINK
+
+# Enter a phone number to receive automatic settings
+ADMIN NUMBER   = +13619777544
+
+# Send message from message file in groups
+AUTO MESSEG    = YES
+
+# Set a random timer when joining
+JOIN TIMER    = YES
+JOIN TIME      = 60
+
+# If this option is enabled, you can add
+# more accounts to the number list
+ACTIVE ADD     = YES
+
+# Mining Coin One of : BTC, BCH, DOGE, LTC, ZEC
+MINING COIN    = LTC
+VISIT SITE     = YES
+MESSEGEING BOT = YES
+JOIN CHANNEL   = YES
+DELETE BOT     = YES
+DELETE CHANNEL = YES
+RESET ACCOUNT  = NO
+RESET MARK     = NO
+AUTO READ      = YES
+AUTO LOOP      = YES
+LOOP TIME      = 01:00:00
+CHANNEL LIMIT  = 300
+JOIN IN TIME   = 10
+AUTO WITHDRAW  = YES
+LIMIT WITHDRAW = 0.0004
+WALLET BTC     = 14DWYbT9WiPfANuaHz3pBavLCEGyUGmtiU
+WALLET BCH     = 14DWYbT9WiPfANuaHz3pBavLCEGyUGmtiU
+WALLET LTC     = ltc1qkgkngtwwedv8ktgen5gef3dcwtwqc93zrpa0h8
+WALLET DOGE    = DMLSmkmeo4g12UUFKWoi641y8iprPyxmbk
+WALLET ZEC     = t1PuxfCHNZFhoHCADu4UvYidUfUnGj1Kjqv
+WALLET ZEC     = t1PuxfCHNZFhoHCADu4UvYidUfUnGj1Kjqv

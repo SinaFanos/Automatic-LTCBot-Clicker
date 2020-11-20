@@ -1,0 +1,6 @@
+requests
+asyncio
+colorama
+telethon
+pysocks
+bs4
